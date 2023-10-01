@@ -1,1 +1,0 @@
-# Personal-Object-Detector-for-Visually-Impaired
